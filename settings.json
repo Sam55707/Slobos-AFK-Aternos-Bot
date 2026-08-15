@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "wewe1121.aternos.me",
+    "ip": "lenok.aternos.host:19977",
     "port": 19977,
     "version": "",
     "try-creative": false
