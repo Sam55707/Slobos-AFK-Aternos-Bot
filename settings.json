@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "wewe1121.aternos.me:19977",
+    "ip": "wewe1121.aternos.me",
     "port": 19977,
     "version": "",
     "try-creative": false
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 30,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I love you mommy",
+        "aaaaaaa!",
+        "Sam fuck you!"
       ]
     },
     "chat-log": true,
